@@ -1,0 +1,8 @@
+#adding of two numbers in c
+#include <stdio.h>
+#include <conio.h>
+int main()
+{
+int a=4, b = 7, c;
+c = a+b
+}
