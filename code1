@@ -1,7 +1,7 @@
 #adding of two numbers in c
 #include <stdio.h>
 #include <conio.h>
-void main()
+int main()
 {
 int a, b, c;
 printf("enter values of a and b");
