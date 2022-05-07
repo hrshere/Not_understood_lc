@@ -3,6 +3,7 @@
 #include <conio.h>
 void main()
 {
+clrscr();
 int a, b, c;
 printf("enter values of a and b");
 scanf("%d %d",&a,&b);
