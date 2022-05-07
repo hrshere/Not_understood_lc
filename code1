@@ -3,7 +3,9 @@
 #include <conio.h>
 void main()
 {
-int a=4, b = 7, c;
-c = a+b
+int a, b, c;
+printf("enter values of a and b");
+scanf("%d %d",&a,&b);
+c = a+b;
 printf("sum=%d",c);
 }
