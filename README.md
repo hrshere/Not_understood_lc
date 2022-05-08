@@ -1,1 +1,2 @@
-Addition of two numbers in c
+Addition of two numbers in c.
+
